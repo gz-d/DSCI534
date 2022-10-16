@@ -1,2 +1,2 @@
 # DSCI534
-class repository for DSCI534
+Repository for DSCI534 homework
